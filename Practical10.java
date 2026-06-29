@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Practical10 {
+public class Practical10 { 
 
     
     public static String reverseString(String input) {
